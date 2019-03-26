@@ -1,6 +1,8 @@
 # formularioAdv
 Formulario de creación de usuarios
 
+Clonar proyecto
+
 Crear BDD formulario
 Crear Base de Datos: formulario
 
